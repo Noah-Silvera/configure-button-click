@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "1.0",
+  "items": [
+    {
+      "$type": "menu-item",
+      "id": "button-config",
+      "iconId": "zoom-in",
+      "title": "Zoom In",
+      "action": "map.zoom-in"
+    }
+  ]
+}
